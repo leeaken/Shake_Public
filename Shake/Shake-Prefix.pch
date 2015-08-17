@@ -1,0 +1,16 @@
+//
+//  Shake-Prefix.pch
+//  Shake
+//
+//  Created by aken on 15/8/6.
+//  Copyright (c) 2015年 Shake. All rights reserved.
+//
+
+#ifndef Shake_Shake_Prefix_pch
+#define Shake_Shake_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+
+#endif
